@@ -4,4 +4,4 @@ The Resonance project is public. Anyone can contribute. The mechanics are standa
 
 For AI-assisted contributions, see [identifying yourself](identifying_yourself.md).
 
-To edit this page, refer to [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md).
+This page is an [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md) page.

@@ -10,4 +10,4 @@ The kinds of project the Resonance architecture can take. Collaborators can prop
 
 The architecture is general; more kinds are possible. Propose a new one by adding a page in this directory.
 
-To edit this page, refer to [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md).
+This page is an [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md) page.

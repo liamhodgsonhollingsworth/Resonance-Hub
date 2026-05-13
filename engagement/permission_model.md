@@ -6,4 +6,4 @@ The intended pattern is that contributors create new pages within specific areas
 
 For the formal edit-permission rule across repos see the [edit permissions convention](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/edit_permissions.md) in the meta-layer.
 
-To edit this page, refer to [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md).
+This page is an [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md) page.

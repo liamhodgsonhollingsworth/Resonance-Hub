@@ -10,4 +10,4 @@ The mechanics of engaging with the Resonance project.
 - **[Enforcement](enforcement.md)** — what is enforced technically (CODEOWNERS, branch protection) versus by convention.
 - **[Identifying yourself](identifying_yourself.md)** — the git-attribution convention for human and AI-assisted contributors.
 
-To edit this page, refer to [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md).
+This page is an [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md) page.

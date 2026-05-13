@@ -11,4 +11,4 @@ The atlas-mirrored rule for what kind of contribution lands where:
 
 Contributions that change foundational pages (the meta-layer README and meta-conventions, the licenses) require maintainer approval before the pull request is opened.
 
-To edit this page, refer to [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md).
+This page is an [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md) page.

@@ -4,4 +4,4 @@ The area rule (where contributions go) is a convention, not a technical constrai
 
 CODEOWNERS and branch-protection rules technically enforce the maintainer-gating on atlas-linked paths in repos that support those features; the [edit permissions convention](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/edit_permissions.md) describes that mechanism.
 
-To edit this page, refer to [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md).
+This page is an [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md) page.

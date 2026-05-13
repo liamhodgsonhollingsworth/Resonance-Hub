@@ -4,4 +4,4 @@ Each contributor should commit under a name that identifies them. For human cont
 
 The session-naming convention at [session_naming.md](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/session_naming.md) in the meta-layer describes the git-attribution mechanics.
 
-To edit this page, refer to [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md).
+This page is an [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md) page.

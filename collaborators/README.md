@@ -17,7 +17,7 @@ An index entry includes the collaborator's name or handle, a one-sentence descri
 - **Linking.** Add a new entry under "Current collaborators" when you want to be listed. Create a self-introduction page in this directory (a file named for you or your handle), then add a `**[Your name](your_page.md)** — sentence describing what you work on.` entry here.
 - **Updating.** Update your own entry as your work evolves. The append-only invariant means previous versions stay reachable in git history.
 
-This index is openly editable per the [open-edit policy](../README.md#open-edit-policy) of this repo.
+This page is an [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md) page.
 
 ## Deferred improvements
 

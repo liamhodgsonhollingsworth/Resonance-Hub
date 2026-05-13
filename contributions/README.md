@@ -22,7 +22,7 @@ Contributions that should be evaluated for inclusion in the canonical idea graph
 - **Linking.** Add a new entry under "Recent contributions" when you want to log a contribution. Inline entries (one or two paragraphs) live directly on this page; longer contributions get their own page in this directory.
 - **Promotion.** When a contribution becomes substantial enough to deserve its own page, create one in this directory and replace the inline entry with a link plus a one-sentence summary.
 
-This index is openly editable per the [open-edit policy](../README.md#open-edit-policy) of this repo.
+This page is an [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md) page.
 
 ## Deferred improvements
 

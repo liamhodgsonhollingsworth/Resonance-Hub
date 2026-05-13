@@ -27,4 +27,4 @@ This repository overrides the meta-layer's atlas-linked maintainer-gating: anyon
 
 [MIT License](LICENSE) — placeholder. Tracks the meta-layer's license decision.
 
-To edit this page, refer to [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md).
+This page is an [open-edit](https://github.com/liamhodgsonhollingsworth/The-Resonance-Wavefront/blob/main/conventions/editing/open_edit.md) page.
